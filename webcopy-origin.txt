@@ -1,0 +1,196 @@
+Uri: https://doculuma.com/
+File Name: C:\Downloaded Web Sites\doculuma.com\index.htm
+Content Type: text/html
+
+Uri: https://doculuma.com/about_us
+File Name: C:\Downloaded Web Sites\doculuma.com\about_us.html
+Content Type: text/html
+
+Uri: https://doculuma.com/contact_us
+File Name: C:\Downloaded Web Sites\doculuma.com\contact_us.html
+Content Type: text/html
+
+Uri: https://doculuma.com/cookie
+File Name: C:\Downloaded Web Sites\doculuma.com\cookie.html
+Content Type: text/html
+
+Uri: https://doculuma.com/css/base.css?332423
+File Name: C:\Downloaded Web Sites\doculuma.com\css\base.css
+Content Type: text/css
+
+Uri: https://doculuma.com/eula
+File Name: C:\Downloaded Web Sites\doculuma.com\eula.html
+Content Type: text/html
+
+Uri: https://doculuma.com/faq
+File Name: C:\Downloaded Web Sites\doculuma.com\faq.html
+Content Type: text/html
+
+Uri: https://doculuma.com/images/arrowRight.svg
+File Name: C:\Downloaded Web Sites\doculuma.com\images\arrowRight.svg
+Content Type: image/svg+xml
+
+Uri: https://doculuma.com/images/author.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\author.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/close.svg
+File Name: C:\Downloaded Web Sites\doculuma.com\images\close.svg
+Content Type: image/svg+xml
+
+Uri: https://doculuma.com/images/contactPic1.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\contactPic1.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/contactPic2.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\contactPic2.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/createPdf.svg
+File Name: C:\Downloaded Web Sites\doculuma.com\images\createPdf.svg
+Content Type: image/svg+xml
+
+Uri: https://doculuma.com/images/createPdf.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\createPdf.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/downloadBg.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\downloadBg.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/favicons/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\doculuma.com\images\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://doculuma.com/images/favicons/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\doculuma.com\images\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://doculuma.com/images/favicons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\doculuma.com\images\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://doculuma.com/images/fillForms.svg
+File Name: C:\Downloaded Web Sites\doculuma.com\images\fillForms.svg
+Content Type: image/svg+xml
+
+Uri: https://doculuma.com/images/fillInteral.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\fillInteral.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/logoF.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\logoF.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/logotype.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\logotype.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/macOS.svg
+File Name: C:\Downloaded Web Sites\doculuma.com\images\macOS.svg
+Content Type: image/svg+xml
+
+Uri: https://doculuma.com/images/mail.svg
+File Name: C:\Downloaded Web Sites\doculuma.com\images\mail.svg
+Content Type: image/svg+xml
+
+Uri: https://doculuma.com/images/mailActive.svg
+File Name: C:\Downloaded Web Sites\doculuma.com\images\mailActive.svg
+Content Type: image/svg+xml
+
+Uri: https://doculuma.com/images/mainPic.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\mainPic.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/menu.svg
+File Name: C:\Downloaded Web Sites\doculuma.com\images\menu.svg
+Content Type: image/svg+xml
+
+Uri: https://doculuma.com/images/mergesplit.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\mergesplit.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/openView.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\openView.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/quote.svg
+File Name: C:\Downloaded Web Sites\doculuma.com\images\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://doculuma.com/images/readPdf.svg
+File Name: C:\Downloaded Web Sites\doculuma.com\images\readPdf.svg
+Content Type: image/svg+xml
+
+Uri: https://doculuma.com/images/UninstallStep1.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\UninstallStep1.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/UninstallStep2.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\UninstallStep2.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/UninstallStep3.webp
+File Name: C:\Downloaded Web Sites\doculuma.com\images\UninstallStep3.webp
+Content Type: image/webp
+
+Uri: https://doculuma.com/images/windows.svg
+File Name: C:\Downloaded Web Sites\doculuma.com\images\windows.svg
+Content Type: image/svg+xml
+
+Uri: https://doculuma.com/privacy
+File Name: C:\Downloaded Web Sites\doculuma.com\privacy.html
+Content Type: text/html
+
+Uri: https://doculuma.com/terms
+File Name: C:\Downloaded Web Sites\doculuma.com\terms.html
+Content Type: text/html
+
+Uri: https://doculuma.com/uninstall
+File Name: C:\Downloaded Web Sites\doculuma.com\uninstall.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+File Name: C:\Downloaded Web Sites\doculuma.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\doculuma.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\doculuma.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\doculuma.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\doculuma.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\doculuma.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\doculuma.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\doculuma.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\doculuma.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\doculuma.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-PG0WN416LG
+File Name: C:\Downloaded Web Sites\doculuma.com\gtag\js
+Content Type: application/javascript
+
